@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1668"
+   height="897"
+   id="exportedSVG"
+   version="1.1"
+   pencil:version="1.2.2"
+   sodipodi:docname="template.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:pencil="http://www.evolus.vn/Namespace/Pencil">
+  <defs
+     id="defs64">
+    <rect
+       x="1157.5738"
+       y="682.08743"
+       width="250.65574"
+       height="80.513661"
+       id="rect23353" />
+    <rect
+       x="1153.0164"
+       y="575.74863"
+       width="255.21311"
+       height="72.918033"
+       id="rect20289" />
+    <rect
+       x="876.53552"
+       y="685.12568"
+       width="259.77049"
+       height="85.071038"
+       id="rect17665" />
+    <rect
+       x="868.93989"
+       y="589.42077"
+       width="274.96175"
+       height="57.726776"
+       id="rect14095" />
+    <rect
+       x="932.74317"
+       y="484.60109"
+       width="402.56831"
+       height="106.3388"
+       id="rect9785" />
+    <rect
+       x="925.14754"
+       y="311.42077"
+       width="461.81421"
+       height="132.16393"
+       id="rect5841" />
+    <rect
+       x="1286.6995"
+       y="200.52459"
+       width="161.02732"
+       height="47.092896"
+       id="rect2755" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     showguides="true"
+     inkscape:zoom="0.65827338"
+     inkscape:cx="600.81421"
+     inkscape:cy="430.67213"
+     inkscape:window-width="1798"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer_untitled_page">
+    <inkscape:grid
+       type="xygrid"
+       id="grid27091" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Untitled Page"
+     inkscape:groupmode="layer"
+     id="layer_untitled_page">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+       id="rect88"
+       width="609.16937"
+       height="609.16937"
+       x="0"
+       y="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 300,480 v 40"
+       id="path27386-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,460 H 540"
+       id="path27159-1" />
+    <text
+       xml:space="preserve"
+       id="text2753"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2755);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-844.63385,-185.33333)"><tspan
+         x="1286.6992"
+         y="237.0186"
+         id="tspan27521">Battery</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5839"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5841);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-745.89068,-167.10382)"><tspan
+         x="925.14844"
+         y="347.91313"
+         id="tspan27523">HH:MM:SS</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text9783"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9785);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-773.23495,-256.73223)"><tspan
+         x="932.74219"
+         y="521.09478"
+         id="tspan27525">YYYY-MM-DD</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text14093"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14095);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-809.69396,-195.96721)"><tspan
+         x="868.93945"
+         y="625.91313"
+         id="tspan27527">Stat 1</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text17663"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect17665);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-814.25134,-195.96721)"><tspan
+         x="876.53516"
+         y="721.61821"
+         id="tspan27529">Stat 2</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text20287"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect20289);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-788.4262,-188.37158)"><tspan
+         x="1153.0156"
+         y="612.24126"
+         id="tspan27531">Stat 3</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23351"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23353);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-796.02183,-195.96721)"><tspan
+         x="1157.5742"
+         y="718.5811"
+         id="tspan27533">Stat 4</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6.66667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40,360 H 540"
+       id="path27159" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6.66666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 300,380 v 40"
+       id="path27386" />
+  </g>
+</svg>
